@@ -1,0 +1,242 @@
+AccountName,SF Match Name,SF Match Score,DeploymentAccountID,SF Account ID
+Bidest Noonan,NOA NEWS LIMITED,55,001500000184qDIAAY,001500000184qDIAAY
+Three Ireland (Hutchison) Limited,Three Ireland (Hutchison) Limited,100,0015000000qG2wOAAS,0015000000qG2wOAAS
+Lloylds Pharmacy,Allcare Pharmacy,69,0015000001J5LhHAAV,0015000001J5LhHAAV
+PWC ,Empower,40,0012J00002Q3V0sQAF,0012J00002Q3V0sQAF
+United Drug,Dublin Unified,64,0015000001YBYNLAA5,0015000001YBYNLAA5
+"Department of Agriculture, Food and the Marine","Department of Agriculture, Fisheries, and Food",76,0015000001Fk94MAAR,0015000000ylFT0AAM
+"Department of Children, Equality, Disability, Integration and Youth",DEPARTMENT OF CHILDREN AND YOUTH AFFAIRS,62,0015000001Fk94MAAR,0015000001TmeOiAAJ
+Department of Defence,DEPARTMENT OF DEFENCE,100,0015000001Fk94MAAR,0015000001QlZzEAAV
+Department of Education,Department for Education,94,0015000001J4erVAAR,0015000001J4erVAAR
+"Department of Enterprise, Trade and Employment",DEPARTMENT OF EMPLOYMENT AND LEARNING,78,0015000001NXNspAAH,0015000001NXNspAAH
+Department of Finance,Department Of Finance & Personnel,81,0015000001NXNphAAH,0015000001NXNphAAH
+Department of Foreign Affairs,DEPARTMENT OF FOREIGN AFFAIRS AND TRADES,84,0015000001Fk94MAAR,0015000001Fk94MAAR
+"Department of Further and Higher Education, Research, Innovation and Science","Department of Jobs, Enterprise and Innovation",63,0015000001Fk94MAAR,0015000001DiVcCAAV
+Department of Health,THE DEPARTMENT OF HEALTH,91,0015000001Fk94MAAR,00150000014VatpAAC
+"Department of Housing, Local Government and Heritage","Department of Environment, Community and Local Government",67,0015000001DiWklAAF,0015000001DiWklAAF
+Department of Justice,Department of Justice & Equality,82,0015000001Fk94MAAR,00150000018tNCNAA2
+Department of Public Expenditure and Reform,Department of Public Expenditure and Reform,100,00150000010MXd7AAG,00150000010MXd7AAG
+Department of Rural and Community Development,Department of Rural and Community Development,100,0015000001Fk94MAAR,0012J00002QMrHLQA1
+Department of Social Protection,Department of Social Protection,100,00150000015vgeCAAQ,00150000015vgeCAAQ
+"Department of the Environment, Climate and Communications","Department of Communications, Energy and Natural Resources",71,0015000001Fk94MAAR,0015000000xwj8aAAA
+Department of the Taoiseach,THE DEPARTMENT OF HEALTH,71,0015000001Fk94MAAR,00150000014VatpAAC
+"Department of Tourism, Culture, Arts, Gaeltacht, Sport and Media","Department of Transport, Tourism and Sport",61,0015000001DiVcbAAF,0015000001DiVcbAAF
+Department of Transport,"Department of Transport, Tourism and Sport",72,0015000001DiVcbAAF,0015000001DiVcbAAF
+Carlow County Council,CORK COUNTY COUNCIL,85,0012J00002QkFggQAF,0012J00002QkFggQAF
+Cavan County Council,CORK COUNTY COUNCIL,82,0012J00002QkFggQAF,0012J00002QkFggQAF
+Clare County Council,CORK COUNTY COUNCIL,87,0012J00002QkFggQAF,0012J00002QkFggQAF
+Cork City Council,Cork City Council,100,001500000185mR8AAI,001500000185mR8AAI
+Cork County Council,CORK COUNTY COUNCIL,100,0012J00002QkFggQAF,0012J00002QkFggQAF
+Donegal County Council,Kerry County Council,76,001500000133CJrAAM,001500000133CJrAAM
+Dublin City Council,Dublin City Council,100,001500000185mQtAAI,001500000185mQtAAI
+Dún Laoghaire–Rathdown County Council,Kilkenny County Council,61,0012J00002WP6OpQAL,0012J00002WP6OpQAL
+Fingal County Council,Kilkenny County Council,77,0012J00002WP6OpQAL,0012J00002WP6OpQAL
+Galway City Council,Dublin City Council,74,001500000185mQtAAI,001500000185mQtAAI
+Galway County Council,Kerry County Council,78,001500000133CJrAAM,001500000133CJrAAM
+Kerry County Council,Kerry County Council,100,001500000133CJrAAM,001500000133CJrAAM
+Kildare County Council,Kilkenny County Council,84,0012J00002WP6OpQAL,0012J00002WP6OpQAL
+Kilkenny County Council,Kilkenny County Council,100,0012J00002WP6OpQAL,0012J00002WP6OpQAL
+Laois County Council,Kerry County Council,75,001500000133CJrAAM,001500000133CJrAAM
+Leitrim County Council,Kerry County Council,81,001500000133CJrAAM,001500000133CJrAAM
+Limerick City and County Council,Kerry County Council,65,001500000133CJrAAM,001500000133CJrAAM
+Longford County Council,Kilkenny County Council,74,0012J00002WP6OpQAL,0012J00002WP6OpQAL
+Louth County Council,Kerry County Council,75,001500000133CJrAAM,001500000133CJrAAM
+Mayo County Council,Kerry County Council,82,001500000133CJrAAM,001500000133CJrAAM
+Meath County Council,Kerry County Council,80,001500000133CJrAAM,001500000133CJrAAM
+Monaghan County Council,Kilkenny County Council,74,0012J00002WP6OpQAL,0012J00002WP6OpQAL
+Offaly County Council,Kerry County Council,78,001500000133CJrAAM,001500000133CJrAAM
+Roscommon County Council,Kerry County Council,73,001500000133CJrAAM,001500000133CJrAAM
+Sligo County Council,Kerry County Council,75,001500000133CJrAAM,001500000133CJrAAM
+South Dublin County Council,Dublin Simon Community,69,00150000016xfKkAAI,00150000016xfKkAAI
+Tipperary County Council,Kerry County Council,86,001500000133CJrAAM,001500000133CJrAAM
+Waterford City and County Council,Kerry County Council,68,001500000133CJrAAM,001500000133CJrAAM
+Westmeath County Council,Kerry County Council,73,001500000133CJrAAM,001500000133CJrAAM
+Wexford County Council,Kerry County Council,81,001500000133CJrAAM,001500000133CJrAAM
+Wicklow County Council,Kilkenny County Council,76,0012J00002WP6OpQAL,0012J00002WP6OpQAL
+Dept Of Agriculture,Agricultural Trust,65,0015000001Hl7nMAAR,0015000001Hl7nMAAR
+Solas,Soluxr,55,0012J00002LaxQSQAZ,0012J00002LaxQSQAZ
+Aryzta,Caretrade,53,0015000001F8dKkAAJ,0015000001F8dKkAAJ
+Dept Finance,Better Finances,74,0012J00002Qk5JuQAJ,0012J00002Qk5JuQAJ
+Anord Control Systems Ltd,ADVANCED MANUFACTURING CONTROL SYSTEMS LIMITED,65,00150000010MdeqAAC,00150000010MdeqAAC
+Rottapharm Ltd,NEARA PHARMACIES LIMITED,58,0012J00002Ql4jFQAR,0012J00002Ql4jFQAR
+Eirgen,NetGEN,67,0015000001Yr52BAAR,0015000001Yr52BAAR
+MALIN LIFE SCIENCES HOLDINGS LIMITE,MAYO NEWS (HOLDINGS) LIMITED,72,0012J00002QklETQAZ,0012J00002QklETQAZ
+William Connolly & Sons,WILLIAM KEYS & SONS NO.2 LTD,64,0015000000nDV2WAAW,0015000000qG4TCAA0
+Technopath,TECHTOOL,56,0012J00002Ql39kQAB,0012J00002Ql39kQAB
+Waterford Crystal Limited,WEXFORD CREAMERY LIMITED,73,001500000133CCyAAM,001500000132ftEAAQ
+Q3 Medical Devices Limited,ALEC MEDICAL LIMITED,78,001500000132fsxAAA,001500000132fsxAAA
+Sherling & Sons Ltd,SHAW & SONS LIMITED,65,001500000132ft3AAA,001500000132ft3AAA
+Green Isle,Career Love,57,0012J00002M7mLEQAZ,0012J00002M7mLEQAZ
+Carroll Cuisine,Carrolls Irish Gifts,63,0015000001Goc2ZAAR,0015000001Goc2ZAAR
+Athora,Abtran,67,0012J00002Zmk0SQAR,0012J00002Zmk0SQAR
+ATA Burs,Curtis Cars,53,0015000001F8cqPAAR,0015000001F8cqPAAR
+Bemis Healthcare,BAXTER HEALTHCARE SA,72,001500000133CG5AAM,001500000133CG5AAM
+SK Biotek,Webs Elite,53,0015000001Odd4SAAR,0015000001Odd4SAAR
+Leo Pharma,Allcare Pharmacy,69,0015000001J5LhHAAV,0015000001J5LhHAAV
+nVent,ENET,67,0012J00002NHeJPQA1,0012J00002NHeJPQA1
+Ingersol Rand,DIAGEO IRELAND,67,0015000000qbgslAAA,0015000000qbgslAAA
+ASL Aviation Group Limited,AERSALE AVIATION LIMITED,80,001500000133CDQAA2,001500000133CDQAA2
+HORIZON PHARMA SERVICES LIMITED,ALMAC PHARMA SERVICES LIMITED,80,0012J00002Qk21AQAR,001500000132gcPAAQ
+Adoption Authority of Ireland (AAI),Food Safety Authority of Ireland,62,0012J00002b0OUJQA2,0012J00002b0OUJQA2
+An Bord Pleanála,MYLAN TEORANTA,55,001500000133CATAA2,001500000133CNMAA2
+Aquaculture Licences Appeals Board (ALAB),ALMAC SCIENCES LIMITED,49,0012J00002Qk21AQAR,0015000000nDVzwAAG
+Arts Council (An Chomhairle Ealaíon),MID AND EAST ANTRIM BOROUGH COUNCIL,56,0015000001NXQrqAAH,0015000001NXQrqAAH
+Broadcasting Authority of Ireland (BAI),Broadcasting Authority of Ireland,94,001500000133CEgAAM,0012J00002M9LhXQAV
+Cavan and Monaghan Education and Training Board,Galway / Roscommon Education and Training Board,70,0012J00002QkYp7QAF,0012J00002QkYp7QAF
+Central Statistics Office,Central Statistics Office,100,0015000000qGiJ7AAK,0015000000qGiJ7AAK
+Chester Beatty Library,Belfast Central Library,76,0015000001F8dj5AAB,0015000001F8dj5AAB
+Chief State Solicitor’s Office,Hayes Solicitors,61,00150000015sVYVAA2,00150000015sVYVAA2
+Child and Family Agency (Tusla),MAPFRE Branch Agency Ireland,60,00150000018j4qdAAA,00150000018j4qdAAA
+Chomhairle um Oideachais Gaeltachta agus Gaelscolaíochta,COMHLUCHT IASCAIREACHTA FANAD TEORANTA,45,001500000133COLAA2,001500000133COLAA2
+City of Dublin Education and Training Board,THE FURTHER EDUCATION AND TRAINING AUTHORITY,69,0012J00002QNnaRQAT,0012J00002QNnaRQAT
+Commission for Aviation Regulation,the Commission for Victims and Survivors,59,0012J00002QkHjpQAF,0012J00002QkHjpQAF
+Commission for Communications Regulation (CCR ComReg),THE COMPANY & CONSUMER PROTECTION COMMISSION,62,0015000001Fk94MAAR,0015000001WztLDAAZ
+Commission for Public Service Appointments,Public Appointments Service,78,0015000001OcM6AAAV,0015000001OcM6AAAV
+Commission for Railway Regulation,COMMISSIONERS OF IRISH LIGHTS,58,0015000001Fk94MAAR,0012J00002OWguTQAT
+Commission for Regulation of Utilities (CRU),Office of The Revenue Commissioners,60,0015000000ylFi0AAE,0015000000ylFi0AAE
+Commission on Taxation and Welfare,the Commission for Victims and Survivors,57,0012J00002QkHjpQAF,0012J00002QkHjpQAF
+Commission on the Defence Forces,Office of The Revenue Commissioners,66,0015000000ylFi0AAE,0015000000ylFi0AAE
+Commission to Inquire into Child Abuse,COMMISSIONERS OF IRISH LIGHTS,54,0015000001Fk94MAAR,0012J00002OWguTQAT
+Commissioner for Environmental Information,WESTERN DEVELOPMENT COMMISSION,58,001500000133CEgAAM,0012J00002S1FzgQAF
+Cork Education and Training Board,Galway / Roscommon Education and Training Board,72,0012J00002QkYp7QAF,0012J00002QkYp7QAF
+Cork Institute of Technology,"Institute of Technology, Carlow",90,00150000015encNAAQ,00150000015encNAAQ
+Crawford Art Gallery,Mabel Crawfords Bistro,62,0012J00002Ql5JPQAZ,0012J00002Ql5JPQAZ
+Data Protection Commission,THE COMPANY & CONSUMER PROTECTION COMMISSION,68,0015000001Fk94MAAR,0015000001WztLDAAZ
+Defence Forces of Ireland,AMERICAN CHAMBER OF COMMERCE IRELAND,66,00150000015viX3AAI,00150000015viX3AAI
+Dental Council,THE MEDICAL COUNCIL,67,001500000133CEgAAM,00150000015viuHAAQ
+Director of Public Prosecutions,Director Of Public Prosecutions,100,0015000001NXMWwAAP,0015000001NXMWwAAP
+Discovery Programme,DISCOVERY TRAVEL HOLDINGS LIMITED,58,0015000000qcS4kAAE,0015000000qcS4kAAE
+Donegal Education and Training Board,Galway / Roscommon Education and Training Board,72,0012J00002QkYp7QAF,0012J00002QkYp7QAF
+Dublin and Dun Laoghaire Education and Training Board,Galway / Roscommon Education and Training Board,65,0012J00002QkYp7QAF,0012J00002QkYp7QAF
+Dublin Institute for Advanced Studies,"Mater Dei Institute, Clonliffe Road, Dublin",59,00150000015encUAAQ,00150000015encUAAQ
+Dublin Institute of Technology,Dundalk Institute of Technology,89,00150000015encLAAQ,0015000000utUNGAA2
+Dundalk Institute of Technology,Dundalk Institute of Technology,100,00150000015encLAAQ,0015000000utUNGAA2
+Eastern and Midland Regional Assembly,NORTHERN IRELAND ASSEMBLY,58,001500000178aqZAAQ,001500000178aqZAAQ
+Educational Research Centre (ERC),Educational Research Centre,93,0015000001Fk94MAAR,0015000000uojmBAAQ
+Financial Services and Pensions Ombudsman (FSPO),GARTNER FINANCIAL SERVICES COMPANY,62,0015000000qFuXnAAK,001500000133CTUAA2
+Food Safety Promotion Board (safefood),Food Safety Authority of Ireland,56,0012J00002b0OUJQA2,0012J00002b0OUJQA2
+Foras na Gaeilge - An Foras Teanga (The Language Body),The Northern Ireland Association for Mental Health,50,0015000000iTsTfAAK,0015000000iTsTfAAK
+Forensic Science Ireland,Horse Racing Ireland,68,00150000010g1dcAAA,00150000010g1dcAAA
+Gaisce (President's National Challenge Award),"National College of Art & Design, Dublin",55,00150000015enV6AAI,00150000015enV6AAI
+Galway and Roscommon Education and Training Board,Galway / Roscommon Education and Training Board,96,0012J00002QkYp7QAF,0012J00002QkYp7QAF
+Galway-Mayo Institute of Technology,"Institute of Technology, Carlow",83,00150000015encNAAQ,00150000015encNAAQ
+Garda Ombudsman,GARDA SIOCHANA,62,0012J00002WP1O8QAL,0012J00002WP1O8QAL
+Gender Equality,EQUIAG LIMITED,62,0015000001VGA3CAAX,0015000001VGA3CAAX
+Grangegorman Development Agency,Industrial Development Agency (Ireland),71,0015000001Fk94MAAR,0015000000qEacHAAS
+Health and Safety Authority,Road Safety Authority,75,0015000001DiVcbAAF,0012J00002M9LhwQAF
+Health and Social Care Professionals Council,Northern Health and Social Care Trust,64,0012J00002QMlR2QAL,0012J00002QMlR2QAL
+Health Insurance Authority,Southern Education Authority,70,0015000001IYwtZAAT,0015000001IYwtZAAT
+Health Service National Partnership Forum (Lenus),GARTNER FINANCIAL SERVICES COMPANY,62,0015000000qFuXnAAK,001500000133CTUAA2
+Healthy Ireland,Failte Ireland,76,0015000000spAp3AAE,0015000000spAp3AAE
+Housing Agency,ACORN HOUSING,74,0012J00002QjyShQAJ,0012J00002QjyShQAJ
+Housing Finance Agency,UIF FINANCE COMPANY,68,001500000132eIEAAY,001500000133CPgAAM
+Inland Fisheries Ireland,Insurance Institute of Ireland,63,0012J00002M9LhcQAF,0012J00002M9LhcQAF
+Insolvency Service Ireland,Customer Service Excellence Ireland,72,0015000001SRVz1AAH,0015000001SRVz1AAH
+Institute of Public Health in Ireland (IPH),The Institute of Public Health In Ireland (Iph),95,0012J00002M9Li1QAF,0012J00002M9Li1QAF
+International Protection Accommodation Services (IPAS),Make A Wish Foundation International,64,00150000017g2NZAAY,00150000017g2NZAAY
+Irish Auditing and Accounting Supervisory Authority,AURORA ACCOUNTING AND BUSINESS SERVICES LIMITED,61,0012J00002Qk2izQAB,0012J00002Qk2izQAB
+Irish Film Classification Office,THE IRISH FARMERS ASSOCIATION,66,0015000000ylFLLAA2,0015000000ylFLLAA2
+Irish Financial Services Appeals Tribunal,Sheridan Insurances & Financial Services,66,0015000001Hl8tZAAR,0015000001Hl8tZAAR
+Irish Fiscal Advisory Council,BCC RISK ADVISORY LIMITED,63,0012J00002RzND2QAN,0012J00002RzND2QAN
+Irish Heritage Trust,Irish Homecare,59,0015000001YDA5VAAX,0015000001YDA5VAAX
+Irish Human Rights and Equality Commission,COMMISSIONERS OF IRISH LIGHTS,65,0015000001Fk94MAAR,0012J00002OWguTQAT
+Irish Manuscripts Commission,COMMISSIONERS OF IRISH LIGHTS,70,0015000001Fk94MAAR,0012J00002OWguTQAT
+Irish National Stud,Irish National Insurance,65,001500000133CFmAAM,001500000133CFmAAM
+Irish Water Safety,IRISH WATER,76,0012J00002XagJyQAJ,0012J00002XagJyQAJ
+Kerry Education and Training Board,Galway / Roscommon Education and Training Board,76,0012J00002QkYp7QAF,0012J00002QkYp7QAF
+Kildare and Wicklow Education and Training Board,Galway / Roscommon Education and Training Board,69,0012J00002QkYp7QAF,0012J00002QkYp7QAF
+Kilkenny and Carlow Education and Training Board,Galway / Roscommon Education and Training Board,67,0012J00002QkYp7QAF,0012J00002QkYp7QAF
+Laois and Offaly Education and Training Board,Galway / Roscommon Education and Training Board,76,0012J00002QkYp7QAF,0012J00002QkYp7QAF
+Legal Aid Board,Adoreboard - EMEA,67,0012J00002PMWeMQAX,0012J00002PMWeMQAX
+Legal Services Regulatory Authority,Health Products Regulatory Authority,68,001500000133CEgAAM,0015000001M3BgpAAF
+Letterkenny Institute of Technology,Limerick Institute of Technology,84,00150000015encLAAQ,00150000015encSAAQ
+Limerick and Clare Education and Training Board,Galway / Roscommon Education and Training Board,70,0012J00002QkYp7QAF,0012J00002QkYp7QAF
+Limerick Institute of Technology,Limerick Institute of Technology,100,00150000015encLAAQ,00150000015encSAAQ
+Local Government Management Agency (LGMA),G & L Management Consultants,62,0015000001GlZV1AAN,0015000001GlZV1AAN
+Longford and Westmeath Education and Training Board,Galway / Roscommon Education and Training Board,67,0012J00002QkYp7QAF,0012J00002QkYp7QAF
+Louth and Meath Education and Training Board,THE FURTHER EDUCATION AND TRAINING AUTHORITY,75,0012J00002QNnaRQAT,0012J00002QNnaRQAT
+Léargas (Exchange Bureau),Russell Brennan Keane,56,00150000015va64AAA,00150000015va64AAA
+Marine Casualty Investigation Board,AERSALE AVIATION LIMITED,58,001500000133CDQAA2,001500000133CDQAA2
+Marine Institute (Foras na Mara),Marino Institute of Education,61,0012J00002M6o8RQAR,0012J00002M6o8RQAR
+"Mayo, Sligo and Leitrim Education and Training Board",Galway / Roscommon Education and Training Board,73,0012J00002QkYp7QAF,0012J00002QkYp7QAF
+Medical Bureau of Road Safety,Society of Medical Professionals,62,0015000001GnUFaAAN,0015000001GnUFaAAN
+Medical Council,THE MEDICAL COUNCIL,88,001500000133CEgAAM,00150000015viuHAAQ
+Mental Health (Criminal Law) Review Board,ACTION MENTAL HEALTH,61,00150000010MYooAAG,00150000010MYooAAG
+Mental Health Commission,ACTION MENTAL HEALTH,82,00150000010MYooAAG,00150000010MYooAAG
+Moorepark Technology Ltd,METAL TECHNOLOGY LIMITED,75,001500000132gUfAAI,001500000132gUfAAI
+National Archives of Ireland,National College of Ireland,80,0015000000phCePAAU,0015000000phCePAAU
+National Cancer Registry Board,BIOMARIN INTERNATIONAL LIMITED,63,0015000001HjAKTAA3,0015000001HjAKTAA3
+National Centre for Guidance in Education,Educational Research Centre,59,0015000001Fk94MAAR,0015000000uojmBAAQ
+National Council for Curriculum and Assessment,LISBURN AND CASTLEREAGH CITY COUNCIL,54,0015000001NXOGuAAP,0015000001NXOGuAAP
+National Council for Special Education,NATIONAL WOMEN'S COUNCIL OF IRELAND,63,0012J00002QkrdiQAB,0012J00002QkrdiQAB
+National Development Finance Agency (NDFA),Industrial Development Agency (Ireland),73,0015000001Fk94MAAR,0015000000qEacHAAS
+National Disability Authority,National Disability Authority,100,0012J00002S1pQ8QAJ,0012J00002S1pQ8QAJ
+National Economic and Social Council,NCBI (NATIONAL COUNCIL FOR THE BLIND ) GROUP,65,0012J00002M9Lh8QAF,0012J00002M9Lh8QAF
+National Gallery of Ireland,National College of Ireland,85,0015000000phCePAAU,0015000000phCePAAU
+National Library of Ireland (NLI),National Univ. Of Ireland-Maynooth,69,0015000000StZPfAAN,0015000000StZPfAAN
+National Milk Agency,National Asset Management Agency,65,001500000133CA3AAM,001500000133CA3AAM
+National Museum of Ireland (NMI),NATIONAL MUSEUMS NORTHERN IRELAND,83,0015000000uojpyAAA,0015000000uojpyAAA
+National Oil Reserves Agency (NORA),INTERNATIONAL FUND SERVICES (IRELAND) LIMITED,58,001500000133CB2AAM,001500000133CRVAA2
+National Property Services Regulatory Authority,Health Products Regulatory Authority,67,001500000133CEgAAM,0015000001M3BgpAAF
+National Shared Services Office,Sheridan Insurances & Financial Services,67,0015000001Hl8tZAAR,0015000001Hl8tZAAR
+National Standards Authority of Ireland (NSAI),NATIONAL STANDARDS AUTHORITY OF IRELAND,94,001500000133CRfAAM,001500000133CRfAAM
+National Treatment Purchase Fund Board,National Car Testing Service,61,001500000133CI6AAM,001500000133CI6AAM
+Northern and Western Regional Assembly,North West Regional College,65,0015000001NXPBGAA5,0015000001NXPBGAA5
+Nursing and Midwifery Board of Ireland,A. C. NIELSEN OF IRELAND LIMITED,62,001500000132fuaAAA,001500000132fuaAAA
+Oberstown Children Detention Campus,DEPARTMENT OF CHILDREN AND YOUTH AFFAIRS,59,0015000001Fk94MAAR,0015000001TmeOiAAJ
+Office of Emergency Planning,OFFICE OF GOVERNMENT PROCUREMENT,57,0012J00002WO7UGQA1,0012J00002WO7UGQA1
+Office of Ombudsman for Children,OMBUDSMAN FOR CHILDREN'S OFFICE,92,0012J00002SlYBiQAN,0012J00002SlYBiQAN
+Office of Ombudsman for the Defence Forces,OMBUDSMAN FOR CHILDREN'S OFFICE,68,0012J00002SlYBiQAN,0012J00002SlYBiQAN
+Office of Public Works,Dolan'S Post Office,59,0015000001F8dN4AAJ,0015000001F8dN4AAJ
+Office of the Attorney General,THE ELECTORAL OFFICE OF NORTHERN IRELAND,63,0015000001F8e8cAAB,0015000001F8e8cAAB
+Office of the Comptroller and Auditor General,National Office of Clinical Audit,59,0012J00002b1260QAA,0012J00002b1260QAA
+Office of the Information Commissioner,Office of The Revenue Commissioners,71,0015000000ylFi0AAE,0015000000ylFi0AAE
+Office of the Ombudsman,OMBUDSMAN FOR CHILDREN'S OFFICE,70,0012J00002SlYBiQAN,0012J00002SlYBiQAN
+Office of the Planning Regulator,FINNING (IRELAND) LIMITED,55,001500000133CB3AAM,001500000133CB3AAM
+Office of the Refugee Appeals Tribunal,Office of The Revenue Commissioners,58,0015000000ylFi0AAE,0015000000ylFi0AAE
+Oifig Choimisinéir na dTeangacha Oifigúla,OIFIG NA NOIBREACHA POIBLI,55,0015000001Ai0hBAAR,0015000001Ai0hBAAR
+Pensions Council,Stirling Council,69,0015000001NXR13AAH,0015000001NXR13AAH
+Personal Injuries Assessment Board,ION PRINCIPAL INVESTMENTS LIMITED,54,0012J00002XYMPdQAP,0012J00002XYMPdQAP
+Pharmaceutical Society of Ireland,SHIRE PHARMACEUTICALS IRELAND LIMITED,77,0015000000qG1blAAC,0015000000qG1blAAC
+Pre-Hospital Emergency Care Council (PHECC),Elim Pentecostal Alliance Council,57,001500000132gdRAAQ,001500000132gdRAAQ
+President's Establishment,TSE DATA PROCESSING LIMITED,58,0012J00002XY7p2QAD,001500000133CB7AAM
+Private Security Authority,Road Safety Authority,72,0015000001DiVcbAAF,0012J00002M9LhwQAF
+Property Registration Authority,Health Products Regulatory Authority,63,001500000133CEgAAM,0015000001M3BgpAAF
+Public Appointments Service,Public Appointments Service,100,0015000001OcM6AAAV,0015000001OcM6AAAV
+Regulator of the National Lottery,THE NATIONAL OPERA HOUSE,67,00150000017gM2CAAU,00150000017gM2CAAU
+Residential Institutions Redress Board (RIRB),CONSTITUTION AIRCRAFT LEASING (IRELAND) 3 LIMITED,53,001500000133C8EAAU,001500000133C6iAAE
+Residential Institutions Statutory Fund Board (CaraNua),Alltrans Distribution Specialist,54,0012J00002Qk03gQAB,0012J00002Qk03gQAB
+Safety on the Water,The Waterfoot Hotel,63,0015000001F8cluAAB,0015000001F8cluAAB
+Science Foundation Ireland,NORTHERN IRELAND SCIENCE PARK FOUNDATION LIMITED,70,0012J00002QkqXxQAJ,0012J00002QkqXxQAJ
+Screen Ireland (Fís Éireann),SRS Aviation Ireland,64,001500000133CI7AAM,001500000133CI7AAM
+Sea Fisheries Protection Authority (SFPA),Education Authority South Eastern Region,61,0015000001NXQKIAA5,0015000001NXQKIAA5
+Social Welfare Appeals Office,Apple Office,54,0012J00002Qk1VxQAJ,0012J00002Qk1VxQAJ
+Southern Regional Assembly,NORTHERN IRELAND ASSEMBLY,75,001500000178aqZAAQ,001500000178aqZAAQ
+Special EU Programmes Body,SOCIAL ONLINE PAYMENTS LIMITED,54,001500000133CEIAA2,001500000133CEIAA2
+Sport Ireland,HORSE SPORT IRELAND,81,0012J00002QN4ySQAT,0012J00002QN4ySQAT
+Standards in Public Office Commission,STERIS PUBLIC LIMITED COMPANY,61,0012J00002Ql1gEQAR,0012J00002Ql1gEQAR
+State Examinations Commission (SEC),WESTERN DEVELOPMENT COMMISSION,63,001500000133CEgAAM,0012J00002S1FzgQAF
+Strategic Banking Corporation of Ireland,Ireland's Association of Adventure Travel,64,0015000001VGQD8AAP,0015000001VGQD8AAP
+Tax Appeals Commission,Radisson SAS Hotels,54,001500000133CHzAAM,001500000133CHzAAM
+Teilifís na Gaeilge - TG4,Aerial & Satellite Centre,53,001500000133CHYAA2,001500000133CHYAA2
+The Charities Regulator,THE BAR OF IRELAND,59,0012J00002Jc47AQAR,0012J00002Jc47AQAR
+The Courts Service,The Courts Service of Ireland,77,001500000133CEgAAM,001500000133CEiAAM
+The Heritage Council,THE MEDICAL COUNCIL,77,001500000133CEgAAM,00150000015viuHAAQ
+The International Protection Office,International Protection Office,94,0012J00002Qkx9dQAB,0012J00002Qkx9dQAB
+The Loughs Agency,The Labour Relations Agency,68,0015000001F8eVDAAZ,0015000001F8eVDAAZ
+The National Oversight and Audit Commission,"National University of Ireland, Maynooth",59,00150000015encGAAQ,00150000015encGAAQ
+The Pensions Authority,The Irish Aviation Authority,72,0015000001958jtAAA,0015000001958jtAAA
+The State Laboratory,Pat The Baker,61,001500000133CFhAAM,001500000133CFhAAM
+The Water Advisory Body,Biograph Wealth Advisors,64,,0012J00002c0ML7QAM
+Tipperary Education and Training Board,Galway / Roscommon Education and Training Board,75,0012J00002QkYp7QAF,0012J00002QkYp7QAF
+Trade and Business Development Body (InterTradeIreland),Tipperary Rural And Business Development Institute,72,001500000133CFiAAM,001500000133CFiAAM
+Transport Infrastructure Ireland,Transport for Ireland,75,0015000000sqrrCAAQ,0015000001QlZrjAAF
+Traveller and Roma Inclusion Unit,DENNISON TRAILERS UNLIMITED COMPANY,56,0012J00002XYLhoQAH,0012J00002XYLhoQAH
+Ulster-Scots Agency,ULSTER STORES LIMITED,60,001500000132gUGAAY,001500000132gUGAAY
+Valuation Office,COPE FOUNDATION,58,0012J00002M9Lh3QAF,0012J00002M9Lh3QAF
+Water Safety,IRISH WATER,61,0012J00002XagJyQAJ,0012J00002XagJyQAJ
+Waterford and Wexford Education and Training Board,Galway / Roscommon Education and Training Board,59,0012J00002QkYp7QAF,0012J00002QkYp7QAF
+Waterford Institute of Technology,Waterford Institute of Technology,100,0015000000pjgcuAAA,0015000000pjgcuAAA
+Waterways Ireland,WATERWAYS IRELAND,100,0015000001NXEGuAAP,0015000001NXEGuAAP
+Workplace Relations Commission,NORTHERN IRELAND SCREEN COMMISSION,66,001500000133JjcAAE,001500000133JjcAAE
+Údarás na Gaeltachta,BAXTER HEALTHCARE SA,53,001500000133CG5AAM,001500000133CG5AAM
